@@ -1,0 +1,6 @@
+{
+    "movie_api":{
+        "apikey": "bb6f2d1899034f58848f153a30050df0",
+        "baseurl": "https://image.tmdb.org/t/p/w500" 
+    }
+}
